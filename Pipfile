@@ -6,6 +6,11 @@ name = "pypi"
 [packages]
 boto3 = "*"
 schedule = "*"
+requests = "*"
+paramiko = "*"
+linode-api4 = "*"
+digital-ocean-api = "*"
+python-digitalocean = "*"
 
 [dev-packages]
 
